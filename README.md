@@ -30,6 +30,8 @@ PYProject23/
 │ ├── 📓 dsaTree1.ipynb # Binary Trees, BST, Traversals\
 │ ├── 📓 dsaGraph1.ipynb # Graph (BFS, DFS, Adjacency)\
 │ ├── 📓 dsaHashmap.ipynb # Hash Table with collision handling\
+│ ├── 📓 dsaHashing.ipynb # Hashing techniques\
+│ ├── 📓 dsaHeaps.ipynb # Min/Max Heap implementation\
 │ ├── 📓 dsaPyCode.ipynb # Core Python DSA utilities\
 │ ├── 📓 Multithreading1.ipynb # Concurrent programming concepts\
 │ └── 📄 README.md # Project documentation\

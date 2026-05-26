@@ -1,4 +1,4 @@
-# 📊 Data Structures & Algorithms - Python
+    # 📊 Data Structures & Algorithms - Python
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -37,7 +37,8 @@
 | **Queues** | `dsaQueue1.ipynb` | Simple, Circular, Priority, Deque |
 | **Trees** | `dsaTree1.ipynb` | Binary Trees, BST, Traversals (Inorder, Preorder, Postorder) |
 | **Graphs** | `dsaGraph1.ipynb` | BFS, DFS, Adjacency Matrix, Adjacency List |
-| **Hash Maps** | `dsaHashmap.ipynb` | Hashing, Collision handling, Chaining |
+| **Hash Maps** | `dsaHashmap.ipynb`, `dsaHashing.ipynb` | Hashing, Collision handling, Chaining, Hash Functions |
+| **Heaps** | `dsaHeaps.ipynb` | Min Heap, Max Heap, Heapify, Heap Sort |
 | **Custom DSA** | `dsaPyCode.ipynb` | Additional implementations and utilities |
 
 ## 🧠 Algorithms Covered
@@ -46,7 +47,7 @@
 - ⚡ **Multithreading** (`Multithreading1.ipynb`) - Concurrent programming, Thread synchronization
 - 🌲 **Tree Traversals** - DFS, BFS on trees
 - 🔍 **Graph Algorithms** - Path finding, Connectivity
-
+- 📊 **Heap Operations** - Insertion, Deletion, Heapify, Heap Sort
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -54,3 +55,4 @@
 ```bash
 Python 3.7 or higher
 Jupyter Notebook or Jupyter Lab
+```
