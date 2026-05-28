@@ -1,58 +1,87 @@
-    # 📊 Data Structures & Algorithms - Python
+# 📊 Data Structures & Algorithms - Python
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Hydra2357/DSA-Codes-Python.svg)](https://github.com/Hydra2357/DSA-Codes-Python/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Hydra2357/DSA-Codes-Python.svg)](https://github.com/Hydra2357/DSA-Codes-Python/network)
 
-> A comprehensive collection of **Data Structures and Algorithms** implemented in Python using Jupyter Notebooks. Perfect for interview preparation, competitive programming, and understanding core CS concepts.
+> A comprehensive collection of **Data Structures and Algorithms** implemented in Python using Jupyter Notebooks. Includes DSA fundamentals and coding patterns for interview preparation.
 
 ## 📋 Table of Contents
-- [Features](#-features)
-- [Data Structures Covered](#-data-structures-covered)
-- [Algorithms Covered](#-algorithms-covered)
+- [Project Structure](#-project-structure)
+- [DSA Fundamentals](#-dsa-fundamentals)
+- [DSA Patterns](#-dsa-patterns)
 - [Getting Started](#-getting-started)
 - [Usage Guide](#-usage-guide)
-- [Project Structure](#-project-structure)
+- [Complexity Reference](#-complexity-reference)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
 
-## ✨ Features
+## 📁 Project Structure
+PYProject23/
+│
+├── 📁 DSA Codes/ # Core Data Structures & Algorithms\
+│ ├── 📓 Array1.ipynb # Array basics and operations\
+│ ├── 📓 Array2.ipynb # Advanced array techniques\
+│ ├── 📓 Recursion1.ipynb # Recursive algorithms & backtracking\
+│ ├── 📓 dsaLinkedList1.ipynb # Singly & Doubly Linked Lists\
+│ ├── 📓 dsaStack1.ipynb # Stack implementation & applications\
+│ ├── 📓 dsaQueue1.ipynb # Queue (Simple, Circular, Priority)\
+│ ├── 📓 dsaTree1.ipynb # Binary Trees, BST, Traversals\
+│ ├── 📓 dsaGraph1.ipynb # Graph (BFS, DFS, Adjacency)\
+│ ├── 📓 dsaHashmap.ipynb # Hash Table with collision handling\
+│ ├── 📓 dsaHashing.ipynb # Hashing techniques\
+│ ├── 📓 dsaHeaps.ipynb # Min/Max Heap implementation\
+│ ├── 📓 dsaPyCode.ipynb # Core Python DSA utilities\
+│ ├── 📓 Multithreading1.ipynb # Concurrent programming concepts\
+│ └── 📄 README.md # Project documentation\
+│
+└── 📁 DSA Patterns/ # Coding Patterns for Interviews\
+├── 📓 LeetCode.ipynb # LeetCode problem solutions\
+├── 📓 SlidingWindowCodes.ipynb # Sliding window pattern\
+└── 📓 TwoPointers.ipynb # Two pointers technique \
 
-- 🐍 **Pure Python implementations** - Clean, readable code with comments
-- 📓 **Jupyter Notebooks** - Interactive learning with executable code cells
-- 🎯 **Interview focused** - Common DSA problems and solutions
-- 📚 **Well documented** - Each concept has explanations and examples
-- 🔍 **Easy to navigate** - Organized by data structure type
+## 📈 Repository Info
 
-## 📚 Data Structures Covered
+- **Language**: Python 3.7+
+- **Format**: Jupyter Notebooks
+- **Code Size**: ~500 KB
+- **Last Updated**: May 2026
+- **Status**: Active Maintenance
+- **License**: MIT
 
-| Data Structure | Files | Topics Included |
-|---------------|-------|-----------------|
-| **Arrays** | `Array1.ipynb`, `Array2.ipynb` | Traversal, Insertion, Deletion, Searching, Sorting |
-| **Linked Lists** | `dsaLinkedList1.ipynb` | Singly, Doubly, Circular, Operations |
-| **Stacks** | `dsaStack1.ipynb` | Push, Pop, Peek, Applications |
-| **Queues** | `dsaQueue1.ipynb` | Simple, Circular, Priority, Deque |
-| **Trees** | `dsaTree1.ipynb` | Binary Trees, BST, Traversals (Inorder, Preorder, Postorder) |
-| **Graphs** | `dsaGraph1.ipynb` | BFS, DFS, Adjacency Matrix, Adjacency List |
-| **Hash Maps** | `dsaHashmap.ipynb`, `dsaHashing.ipynb` | Hashing, Collision handling, Chaining, Hash Functions |
-| **Heaps** | `dsaHeaps.ipynb` | Min Heap, Max Heap, Heapify, Heap Sort |
-| **Custom DSA** | `dsaPyCode.ipynb` | Additional implementations and utilities |
+## 👨‍💻 Author
 
-## 🧠 Algorithms Covered
+**Mahesh** (Hydra2357) - [GitHub Profile](https://github.com/Hydra2357)
 
-- 🔄 **Recursion** (`Recursion1.ipynb`) - Recursive functions, Backtracking
-- ⚡ **Multithreading** (`Multithreading1.ipynb`) - Concurrent programming, Thread synchronization
-- 🌲 **Tree Traversals** - DFS, BFS on trees
-- 🔍 **Graph Algorithms** - Path finding, Connectivity
-- 📊 **Heap Operations** - Insertion, Deletion, Heapify, Heap Sort
-## 🚀 Getting Started
+## ⭐ Support
 
-### Prerequisites
+Love this project? [Star it on GitHub](https://github.com/Hydra2357/DSA-Codes-Python)!
 
-```bash
-Python 3.7 or higher
-Jupyter Notebook or Jupyter Lab
-```
+## 📈 GitHub Stats
+
+<div align="center">
+
+### Repository Metrics
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Hydra2357/DSA-Codes-Python?style=for-the-badge&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hydra2357/DSA-Codes-Python?style=for-the-badge&logo=git)
+![GitHub issues](https://img.shields.io/github/issues/Hydra2357/DSA-Codes-Python?style=for-the-badge&logo=github)
+
+### Technical Details
+
+| Metric | Status |
+|--------|--------|
+| **Python Version** | ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg?style=flat-square&logo=python) |
+| **Platform** | ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat-square&logo=jupyter) |
+| **Maintained** | ![Maintained](https://img.shields.io/badge/Maintained-YES-green.svg?style=flat-square) |
+| **License** | ![MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square) |
+
+### Activity
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hydra2357/DSA-Codes-Python?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/Hydra2357/DSA-Codes-Python?style=for-the-badge)
+
+</div>
+
+
