@@ -3,9 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DSA Codes" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/FlappyBird" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PyGames" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PyGames/DSA-Codes-Python" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pycode" vcs="Git" />
   </component>
 </project>
