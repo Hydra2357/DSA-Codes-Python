@@ -518,3 +518,28 @@ if __name__ == "__main__":
     k = 1
     result = get_max_consecutive_ones(nums, k)
     print(f"Max consecutive ones after flipping {k} zeros: {result}")
+
+    print()
+
+    # Example: Get longest substring without repeating
+    result = SlidingWindow.longest_substring_without_repeating("abcabcbb")
+    print(result)  # Output: 3
+
+"""
+14 Different Sliding Window Problems:
+Maximum Sum Subarray of Size K
+Smallest Subarray with Sum >= Target
+Longest Substring with K Distinct Characters
+Longest Substring Without Repeating Characters
+Longest Repeating Character Replacement
+Max Consecutive Ones After Flipping K Zeros
+Find All Anagrams in a String
+Maximum Vowels in Substring of Length K
+Subarray Product Less Than K
+Longest Subarray of 1's After Deleting One Element
+Minimum Window Substring
+Contains Duplicate II
+Return Max Sum Subarray
+Longest Turbulent Subarray
+
+"""
