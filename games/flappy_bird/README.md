@@ -26,8 +26,8 @@ A polished Flappy Bird clone built with Python and Pygame featuring animated bir
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Hydra2357/FlappyBird.git
-cd FlappyBird
+git clone https://github.com/Hydra2357/DSA-Codes-Python.git
+cd DSA-Codes-Python
 ```
 
 ### Install Dependencies
@@ -39,7 +39,7 @@ pip install pygame
 ### Run Game
 
 ```bash
-python flappy_bird.py
+python games/flappy_bird/flappy_bird.py
 ```
 
 ## Controls
@@ -62,11 +62,11 @@ python flappy_bird.py
 ## Project Structure
 
 ```text
-FlappyBird/
+games/flappy_bird/
 │
-├── flappy_bird.py
-├── README.md
-└── requirements.txt
+├── flappy_bird.py          # polished version
+├── flappy_bird_simple.py   # simpler version
+└── README.md
 ```
 
 ## Game Mechanics
