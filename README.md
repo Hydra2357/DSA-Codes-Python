@@ -47,6 +47,19 @@ DSA-Codes-Python/
 | Sliding Window Python implementations | [`dsa/patterns/scripts/sliding_window_patterns.py`](dsa/patterns/scripts/sliding_window_patterns.py) |
 | Small Python example | [`dsa/patterns/scripts/hello_example.py`](dsa/patterns/scripts/hello_example.py) |
 
+## 🧠 AI_basics
+
+This folder contains foundational notebooks for AI/ML learning.
+
+### Contents:
+- **`numpy_all_basics.ipynb`**  
+  Complete guide to NumPy fundamentals including:
+  - Array creation and manipulation
+  - Mathematical operations
+  - Broadcasting, indexing, and slicing
+  - Statistical functions
+  - Performance comparisons with Python lists
+
 ## 🎮 Games
 
 The Flappy Bird project now lives in [`games/flappy_bird/`](games/flappy_bird/).
